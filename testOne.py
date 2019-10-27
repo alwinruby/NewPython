@@ -1,0 +1,3 @@
+sentence="YAY!"
+
+print(sentence)
